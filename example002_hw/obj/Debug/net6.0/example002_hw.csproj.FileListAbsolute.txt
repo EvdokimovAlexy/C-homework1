@@ -1,0 +1,15 @@
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.csproj.AssemblyReference.cache
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.AssemblyInfoInputs.cache
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.AssemblyInfo.cs
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.csproj.CoreCompileInputs.cache
+D:\pyton\hw\с\C-homework1\example002_hw\bin\Debug\net6.0\example002_hw.exe
+D:\pyton\hw\с\C-homework1\example002_hw\bin\Debug\net6.0\example002_hw.deps.json
+D:\pyton\hw\с\C-homework1\example002_hw\bin\Debug\net6.0\example002_hw.runtimeconfig.json
+D:\pyton\hw\с\C-homework1\example002_hw\bin\Debug\net6.0\example002_hw.dll
+D:\pyton\hw\с\C-homework1\example002_hw\bin\Debug\net6.0\example002_hw.pdb
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.dll
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\refint\example002_hw.dll
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.pdb
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\example002_hw.genruntimeconfig.cache
+D:\pyton\hw\с\C-homework1\example002_hw\obj\Debug\net6.0\ref\example002_hw.dll
