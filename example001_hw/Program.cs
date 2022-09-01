@@ -3,15 +3,14 @@ int numberA = Convert.ToInt32 (Console.ReadLine());
 int numberB = Convert.ToInt32 (Console.ReadLine());
 int max = numberA;
 int min = numberB;
-if (numberB > max) max = numberB;
-
+if (numberA > numberB)
 {
-    Console.Write("Наибольшее число "); 
-    Console.WriteLine(max);
+    max = numberA;
+    Console.WriteLine($"Наибольшее число {numberA}, наименьшее число {numberB}"); 
 }
 
-if (numberA < min) min = numberA;
+else 
 {
-    Console.Write("Наименьшее число "); 
-    Console.WriteLine(min);
-}
+    min = numberA;
+    Console.WriteLine($"Наибольшее число {numberB}, наименьшее число {numberA}"); 
+} 
